@@ -1,0 +1,118 @@
+{    
+    "users": [
+    
+  ],
+    "candidatos": [
+    {
+      "name": "Candidato1",
+      "numero": "11111",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "vereador",
+      "categoria": "educação",
+      "userId": 1,
+      "id": 1,
+      "historia": " vereador desde 2132 esta concorrendo pelo seu mandato pela 4554 vez."
+    },
+    {
+      "name": "Candidato2",
+      "numero": "222",
+      "partido": "AA",
+      "cidade": "Curitiba",
+      "cargo": "Senador",
+      "categoria": "segurança",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "Candidato3",
+      "numero": "21354",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "vereador",
+      "categoria": "qualidade de vida",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato4",
+      "numero": "47",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "Prefeito",
+      "categoria": "educação",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato5",
+      "numero": "54",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "governador",
+      "categoria": "educação",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato6",
+      "numero": "99",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "preseidente",
+      "categoria": "estrutura",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato7",
+      "numero": "98754",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "deputado estadual",
+      "categoria": "educação",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato8",
+      "numero": "8745",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "deputado federal",
+      "categoria": "esporte",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Candidato9",
+      "numero": "13458",
+      "partido": "TT",
+      "cidade": "Curitiba",
+      "cargo": "vereador",
+      "categoria": "moradia",
+      "userId": 1,
+      "id": 1
+    }
+    ],
+  "cola":[
+      
+    ],
+    "noticias":[
+      {
+      "noticia":"Com a alta do dolar os politicos ainda veem como conseguir roubar mais dinheiro !"
+    },
+    {
+      "noticia":"Foi verificado que o partido ABC está com falta de candidatos !"
+    }],
+    "dashboard":[{
+      "post": "Gostaria de saber como o deputado Tiririca esta se saindo",
+      "name":"Teste",
+      "userId":1
+    }],
+    "resposta":[{
+      "resposta":"Dilma ta gorda",
+      "name":"adoro o pt",
+      "userId":2
+    }]
+  }
